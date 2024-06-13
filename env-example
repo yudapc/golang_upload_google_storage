@@ -1,0 +1,2 @@
+KEY_FILE_PATH=./file-credential.json
+BUCKET_NAME=your-bucket-name
